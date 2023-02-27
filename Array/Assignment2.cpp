@@ -26,7 +26,7 @@ int main(){
         for(int col =0; col<totalCol ; col++){
             cin>>Array2[row][col];
         }
-        cout<<endl;
+        cout<<endl; 
     }
 
     int Array3[totalRow][totalCol];
@@ -45,6 +45,7 @@ int main(){
     }
 
 
+ 
  
 
 
